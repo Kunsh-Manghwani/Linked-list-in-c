@@ -1,7 +1,8 @@
 #include<stdio.h>
 #include<malloc.h>
 #include<string.h>
-
+//made by kunsh manghwani 
+//basic of c language linked list
 struct node{
 	int i;
 	struct node *link;
